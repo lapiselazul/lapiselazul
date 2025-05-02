@@ -1,3 +1,6 @@
-## I was leveling up this whole time
+## Welcome!
 
-![anime girl holding C++ book](https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg)
+I'm a software engineer, curious to learn how things tick, and want to make them more efficient.
+I'm a polyglot, but I mostly enjoy working with TypeScript, Golang, and Python.
+
+Thank you for stopping by.
