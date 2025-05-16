@@ -1,6 +1,3 @@
-## Welcome!
+## Ground control to Major Tom
 
-I'm a software engineer, curious to learn how build and improve software.
-I'm a polyglot, but I my favorites are (in no specific order) TypeScript, C#, and Golang. 
-
-Thank you for stopping by.
+[![Ground control to Major Tom](http://img.youtube.com/vi/HEwtPwkeXjw/0.jpg)](http://www.youtube.com/watch?v=HEwtPwkeXjw "Secret Life of Walter Mitty - Space Oddity scene")
